@@ -1,0 +1,4 @@
+﻿  wordCount.cpp
+D:\新建文件夹\文件\现代软件工程\wordCount\wordCount.cpp(19,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\新建文件夹\文件\现代软件工程\wordCount\wordCount.cpp(8,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\文件\现代软件工程\wordCount\wordCount.cpp(16,16): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
